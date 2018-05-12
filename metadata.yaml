@@ -1,0 +1,29 @@
+_repo: Under-False-Pretences--A-Novel_31375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sergeant, Adeline
+    aliases:
+    - Sargeant, Adeline
+    - Sergeant, Emily Frances Adeline
+    birthdate: 1851
+    deathdate: 1904
+    gutenberg_agent_id: '26039'
+    url: http://www.gutenberg.org/2009/agents/26039
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcc 'PR'
+title: 'Under False Pretences: A Novel'
+url: http://www.gutenberg.org/ebooks/31375
